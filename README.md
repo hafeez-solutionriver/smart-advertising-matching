@@ -34,4 +34,5 @@ Every image is labelled by age, gender and ethnicity but we are working only upo
 # Step for Executing
 - Execute the app.py file only.
 # Screenshots
-!(https://github.com/hafeez-solutionriver)
+![image](https://user-images.githubusercontent.com/111304445/216068304-09e223b2-8899-4c07-8053-5b3f97b41974.png)
+
